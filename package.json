@@ -1,0 +1,39 @@
+{
+  "name": "m-mask",
+  "version": "1.0.0",
+  "description": "黑色半透明遮罩效果，覆盖整个手机屏幕,出现消失时渐变背景色",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/59fe/m-mask.git"
+  },
+  "homepage": "https://github.com/59fe/m-mask",
+  "author": {
+    "name": "半边",
+    "email": "itaofe@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "半边",
+      "email": "itaofe@gmail.com"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/59fe/m-mask/issues"
+  },
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "react": "~15.2.0",
+    "m-base": "^1.0.0",
+    "classnames": "~2.2.3"
+  },
+  "keywords": [
+    "mask",
+    "react",
+    "mobile"
+  ],
+  "license": "Apache-2.0"
+}
