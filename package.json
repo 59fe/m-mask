@@ -1,6 +1,6 @@
 {
   "name": "m-mask",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "黑色半透明遮罩效果，覆盖整个手机屏幕,出现消失时渐变背景色",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "readmeFilename": "README.md",
   "dependencies": {
-    "react": "~15.2.0",
+    "react": "^15.5.4",
     "m-base": "^1.0.0",
     "classnames": "~2.2.3"
   },
